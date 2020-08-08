@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Esders E.M., Klemm O., Breuer B. et al. Use of a flexible chamber to measure stem respiration. Trees (2020). https://doi.org/10.1007/s00468-020-02009-3
+
+Read full text here: https://rdcu.be/b5FBC
+
+  

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eike M Esders
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Micro meteorology
+  url: "http://www.bayceer.uni-bayreuth.de/meteo/index.php?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests includes boundary layer meteorology and aerosol physics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- aerosol suspension
+- windtunnel experiments
+- moddeling
+- environmental impact of microplastics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in the Collaborative Research Centre Microplastics
+    institution: University of Bayreuth
+    year: since 2020
+  - course: MSc in Landscape Ecology
+    institution: University of Münster
+    year: 2019
+  - course: BSc in Landscape Ecology
+    institution: University of Münster
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:eike.esders@uni-bayreuth.de".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/iKe07724546
+  
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=qwPHbBsAAAAJ&hl=en
+  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9201-1791
+  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/EikeEsders
+  
+- icon: researchgate
+  icon_pack: fab  
+  link: https://www.researchgate.net/profile/Eike_Esders
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in the atmospheric pathways of microplastics, especially the suspension of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for suspension of microplastics in nature. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When I am not at the university I suspend some frisbees into the air.
