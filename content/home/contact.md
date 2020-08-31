@@ -22,12 +22,8 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-Department of Micrometeorology
-
-Lab: GEO I - Room 119
-
-University of Bayreuth
-
-Universitätsstrasse 30
-
+Department of Micrometeorology<br/>
+Lab: GEO I - Room 119<br/>
+University of Bayreuth<br/>
+Universitätsstrasse 30<br/>
 95447 Bayreuth
