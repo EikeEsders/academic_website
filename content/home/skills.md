@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "What I like"
@@ -24,11 +24,6 @@ subtitle = ""
   icon_pack = "custom"
   name = "julia IDE" 
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Cameras"
-  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
