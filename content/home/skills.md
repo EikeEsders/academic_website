@@ -20,9 +20,9 @@ subtitle = ""
   name = "R"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Turbulence" 
+  icon = "juno_darkbg"
+  icon_pack = "custom"
+  name = "julia IDE" 
   
 [[feature]]
   icon = "camera-retro"
