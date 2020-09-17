@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false    # Activate this widget? true/false
+active = true   # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
@@ -68,3 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Quantitative detection of fluorescent microplastic particles with a full-format camera for atmospheric transport wind tunnel studies.
+Eike Maximilian Esders, Wolfgang Babel, Christoph Thomas
+sciencesconf.org:micro2020:334190
