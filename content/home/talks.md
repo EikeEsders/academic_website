@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 Quantitative detection of fluorescent microplastic particles with a full-format camera for atmospheric transport wind tunnel studies.
-Eike Maximilian Esders, Wolfgang Babel, Christoph Thomas
-sciencesconf.org:micro2020:334190
+
+Eike Maximilian Esders, Wolfgang Babel, Christoph Thomas sciencesconf.org:micro2020:334190
