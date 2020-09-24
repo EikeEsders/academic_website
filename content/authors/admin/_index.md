@@ -21,7 +21,7 @@ organizations:
 bio: My research interests includes boundary layer meteorology and aerosol physics.
 
 interests:
-- aerosol suspension
+- particle suspension
 - windtunnel experiments
 - moddeling
 - environmental impact of microplastics
