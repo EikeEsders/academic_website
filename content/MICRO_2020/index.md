@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "banner.png"
 ---
 
 Quantitative detection of fluorescent microplastic particles with a full-format camera for atmospheric transport wind tunnel studies.
