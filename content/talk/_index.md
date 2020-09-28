@@ -17,7 +17,7 @@ Quantitative detection of fluorescent microplastic particles with a full-format 
 
 Esders E.M.1, Babel W.1,2, Thomas C.K.1,2
 
-1: Micrometeorology, University of Bayreuth, Germany
+1: Micrometeorology, University of Bayreuth, Germany<br>
 2: Bayreuth Center of Ecology and Environmental Research (Bayceer), University of Bayreuth, Germany
 
 Atmospheric transport of microplastic particles (MPP) is an emerging topic and we need new methods to improve our understanding of suspension, transport and redeposition of MPP. The atmosphere is not a major source or sink for MPP, but recent findings demonstrate the atmosphere as an important and fast local and global transport pathway.  
