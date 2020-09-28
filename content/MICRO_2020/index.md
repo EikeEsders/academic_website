@@ -1,5 +1,6 @@
 ---
 title: MICRO 2020
+date: "2020-09-28"
 
 # View.
 #   1 = List
