@@ -76,4 +76,4 @@ subtitle = ""
 +++
 Scientific consulting
 
-Bachelorthesis - Max Stocker - Investigating the impact of bubble bursting on the turbulence above a water surface.
+Bachelorthesis - Max Stocker - Investigating the impact of bubble bursting on the turbulent flow field above a water surface.
