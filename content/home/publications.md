@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Esders, Eike Maximilian, & Thomas, Christoph Karl. (2021, July 13). Particle detection software "mp.flux" used for the publication "Quantitative detection of microplastics with a full-frame visual camera for atmospheric wind tunnel studies" (Version 0.8). Zenodo. http://doi.org/10.5281/zenodo.5094798
 
 Esders E.M., Klemm O., Breuer B. et al. Use of a flexible chamber to measure stem respiration. Trees (2020). https://doi.org/10.1007/s00468-020-02009-3
 
