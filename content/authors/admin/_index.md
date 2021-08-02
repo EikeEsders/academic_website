@@ -37,13 +37,7 @@ education:
   - course: BSc in Landscape Ecology
     institution: University of Münster
     year: 2016
-    
-others:
-  courses:
-  - course: PhD Representative of the CRC 1375
-    year: since 2020
-  - course: Coaching Ultimate
-    year: since 2013
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
