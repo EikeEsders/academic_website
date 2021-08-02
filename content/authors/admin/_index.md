@@ -38,7 +38,7 @@ education:
     institution: University of Münster
     year: 2016
     
-education:
+others:
   courses:
   - course: PhD Representative of the CRC 1375
     year: since 2020
