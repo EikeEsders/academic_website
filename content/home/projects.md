@@ -81,4 +81,4 @@ I was elected to be the PhD Representative of the CRC 1375 for the next year. Th
 
 ***Scientific consulting***
 
-Bachelorthesis - Max Stocker - Influence of water surface and bubble bursting on near-surface turbulence in a wind tunnel
+Bachelorthesis - Max Stocker (2021): Influence of water surface and bubble bursting on near-surface turbulence in a wind tunnel
