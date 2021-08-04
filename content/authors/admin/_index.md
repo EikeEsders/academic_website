@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Micro meteorology
+- name: Micrometeorology
   url: "http://www.bayceer.uni-bayreuth.de/meteo/index.php?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
