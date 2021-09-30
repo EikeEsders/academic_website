@@ -23,7 +23,7 @@ email_form = 0
 +++
 Eike.Esders (at) uni-bayreuth.de<br/>
 Department of Micrometeorology<br/>
-Office: Baracke II - Room 12<br/>
+Office: Behelfsbau II - Room 12<br/>
 Lab: GEO I - Room 119<br/>
 University of Bayreuth<br/>
 Universitätsstrasse 30<br/>
