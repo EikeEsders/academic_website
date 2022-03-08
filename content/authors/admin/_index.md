@@ -21,7 +21,7 @@ organizations:
 bio: My research interests includes boundary layer meteorology and aerosol physics.
 
 interests:
-- particle suspension
+- particle erosion
 - windtunnel experiments
 - moddeling
 - environmental impact of microplastics
@@ -80,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-I am interested in the atmospheric pathways of microplastics, especially the suspension of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for suspension of microplastics in nature. 
+I am interested in the atmospheric pathways of microplastics, especially the erosion and transport of microplastic particles. At the moment I am working on windtunnel experiments to gain insight about the physical conditions needed for aerial transport of microplastics in nature. 
 
 When I am not at the university I suspend some frisbees into the air.
