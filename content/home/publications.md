@@ -69,7 +69,7 @@ subtitle = ""
 
 Esders E.M., C. Georgi, W. Babel and C.K. Thomas (2022) Quantitative detection of aerial suspension of particles with a full-frame visual camera for atmospheric wind tunnel studies. Aerosol Science and Technology DOI:10.1080/02786826.2022.2048789
 
-Read the accepted manuscript here: 
+Read the accepted manuscript here: https://www.eesders.de/files/QD.pdf
 
 Esders, Eike Maximilian, & Thomas, Christoph Karl. (2021, July 13). Particle detection software "mp.flux" used for the publication "Quantitative detection of microplastics with a full-frame visual camera for atmospheric wind tunnel studies" (Version 0.8). Zenodo. http://doi.org/10.5281/zenodo.5094798
 
