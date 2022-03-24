@@ -67,11 +67,17 @@ subtitle = ""
  css_class = ""
 +++
 
++++2022+++
+
 Esders E.M., C. Georgi, W. Babel and C.K. Thomas (2022) Quantitative detection of aerial suspension of particles with a full-frame visual camera for atmospheric wind tunnel studies. Aerosol Science and Technology DOI:10.1080/02786826.2022.2048789
 
 Read the accepted manuscript here: https://www.eesders.de/files/QD_Esders_et_al_2022.pdf
 
++++2021+++
+
 Esders, Eike Maximilian, & Thomas, Christoph Karl. (2021, July 13). Particle detection software "mp.flux" used for the publication "Quantitative detection of microplastics with a full-frame visual camera for atmospheric wind tunnel studies" (Version 0.8). Zenodo. http://doi.org/10.5281/zenodo.5094798
+
++++2020+++
 
 Esders E.M., Klemm O., Breuer B. et al. Use of a flexible chamber to measure stem respiration. Trees (2020). https://doi.org/10.1007/s00468-020-02009-3
 
