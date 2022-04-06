@@ -74,6 +74,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+***Workshops***
+
+WiN Kick-Off Career Orientation Workshop held by Dr. Alina Jahn (Organized & Attended)
+
+Write-it-Right Workshop held by Gadi Rothenberg and Christopher Lowe (Attended)
+
 ***Additional acitivities***
 
 I was elected to be the PhD Representative of the CRC 1375 for the next year. Thanks guys!
