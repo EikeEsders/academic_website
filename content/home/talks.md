@@ -68,9 +68,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Quantitative detection of fluorescent microplastic particles with a full-format camera for atmospheric transport wind tunnel studies.
-
-Esders EM, Babel W, Thomas CK <br> sciencesconf.org:micro2020:334190
-
-Read the full abstract [here]({{< ref "MICRO_2020/index.md" >}} )
+PhD Synopsis Talk @ CRC 1375 PhD Symposium
