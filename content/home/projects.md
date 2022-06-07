@@ -76,9 +76,7 @@ subtitle = ""
 +++
 ***Conferences***
 
-PhD Symposium of the CRC 1375. Three days of exciting talks and good atmosphere. Read about
-
-it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
+PhD Symposium of the CRC 1375. Three days of exciting talks and good atmosphere. Read about it here: https://ubtaktuell.uni-bayreuth.de/sfb1357-doctoral-seminar (Organized & Attended)
 
 ***Workshops***
 
