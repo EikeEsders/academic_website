@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true   # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -69,5 +69,7 @@ subtitle = ""
  css_class = ""
 +++
 Is plastic dust different from mineral dust? Results from idealized wind tunnel experiments
+
 Eike Maximilian Esders, Sebastian Sittl, Inka Krammel, Wolfgang Babel, Georg Papastavrou, Christoph Thomas
-sciencesconf.org:micro2022:428178
+
+sciencesconf.org:micro2022:428178 Read the abstract here: www.eesders.de/micro_2022
