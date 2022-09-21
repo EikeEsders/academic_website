@@ -68,4 +68,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-PhD Synopsis Talk @ CRC 1375 PhD Symposium
+Is plastic dust different from mineral dust? Results from idealized wind tunnel experiments
+Eike Maximilian Esders, Sebastian Sittl, Inka Krammel, Wolfgang Babel, Georg Papastavrou, Christoph Thomas
+sciencesconf.org:micro2022:428178
