@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "banner.png"
+  image: "MICRO_2022_banner.png"
 ---
 
 Is plastic dust different from mineral dust? Results from  idealized wind tunnel experiments
