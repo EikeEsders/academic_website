@@ -18,7 +18,7 @@ organizations:
   url: "http://www.bayceer.uni-bayreuth.de/meteo/index.php?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests includes boundary layer meteorology and aerosol physics.
+bio: My research interests includes boundary layer meteorology and soil erosion.
 
 interests:
 - particle erosion
