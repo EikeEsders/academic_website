@@ -81,6 +81,4 @@ Esders, Eike Maximilian, & Thomas, Christoph Karl. (2021, July 13). Particle det
 
 Esders E.M., Klemm O., Breuer B. et al. Use of a flexible chamber to measure stem respiration. Trees (2020). https://doi.org/10.1007/s00468-020-02009-3
 
-Read full text here: https://rdcu.be/b5FBC
-
   
