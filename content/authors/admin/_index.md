@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Dust scientist
 
 # Organizations/Affiliations
 organizations:
